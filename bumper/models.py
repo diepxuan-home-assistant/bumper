@@ -15,6 +15,7 @@ class VacBotDevice(object):
         self.did = did
         self.name = name
         self.nick = nick
+        self.device_name = name
         self.resource = resource
         self.mqtt_connection = False
         self.xmpp_connection = False
@@ -25,6 +26,7 @@ class VacBotDevice(object):
             "company": self.company,
             "did": self.did,
             "name": self.name,
+            "deviceName": self.device_name,
             "nick": self.nick,
             "resource": self.resource,
             "mqtt_connection": self.mqtt_connection,
@@ -960,6 +962,25 @@ EcoVacsHomeProducts = [
             "_id": "5cb7cfba179839000114d762",
             "materialNo": "110-1711-0001",
             "name": "DEEBOT DE55",
+            "icon": "5cb7cfbab72c4d00010e5fc7",
+            "model": "DE5G",
+            "UILogicId": "D_900",
+            "ota": True,
+            "supportType": {
+                "share": False,
+                "tmjl": False,
+                "assistant": False,
+                "alexa": False
+            },
+            "iconUrl": "https://portal-ww.ecouser.net/api/pim/file/get/5cb7cfbab72c4d00010e5fc7"
+        }
+    },
+    {
+        "classid": "dqc0nv",
+        "product": {
+            "_id": "5cb7cfba179839000114d772",
+            "materialNo": "110-1711-0011",
+            "name": "DEEBOT DE53",
             "icon": "5cb7cfbab72c4d00010e5fc7",
             "model": "DE5G",
             "UILogicId": "D_900",
