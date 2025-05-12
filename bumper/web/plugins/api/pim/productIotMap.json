@@ -1554,6 +1554,27 @@
     }
   },
   {
+    "classid": "dqc0nv",
+    "product": {
+      "_id": "5cb7cfba179839000114d761",
+      "icon": "5cb7cfbab72c4d00010e5fc7",
+      "iconUrl": "https://portal-ww.ecouser.net/api/pim/file/get/5cb7cfbab72c4d00010e5fc7",
+      "materialNo": "110-1711-0002",
+      "model": "DE5G",
+      "name": "DEEBOT DE53",
+      "ota": true,
+      "smartType": "MQ_AP",
+      "status": "valid",
+      "supportType": {
+        "alexa": false,
+        "assistant": false,
+        "share": false,
+        "tmjl": false
+      },
+      "UILogicId": "D_900"
+    }
+  },
+  {
     "classid": "aqdd5p",
     "product": {
       "_id": "5cb7cfba179839000114d762",

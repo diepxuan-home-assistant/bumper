@@ -9,6 +9,18 @@
         "video": false
       }
     },
+    "pid": "5cb7cfba179839000114d761"
+  },
+  {
+    "cfg": {
+      "supported": {
+        "battery": true,
+        "charge": true,
+        "clean": true,
+        "tmallstand": false,
+        "video": false
+      }
+    },
     "pid": "5c19a8f3a1e6ee0001782247"
   },
   {

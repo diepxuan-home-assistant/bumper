@@ -909,7 +909,10 @@
           }
         },
         {
-          "belongApp": ["ecoglobal", "ecodeebot"],
+          "belongApp": [
+            "ecoglobal",
+            "ecodeebot"
+          ],
           "category": "",
           "checkTips": 0,
           "failCount": 0,
@@ -920,8 +923,12 @@
           "materialNo": "110-1711-0201",
           "mid": "ls1ok3",
           "ota": false,
-          "products": ["5b6561060506b100015c8868", "5bf2596f23244a00013f2f13"],
-          "seriesId": "5c2599b6a1e6ee0001782328",
+          "products": [
+            "5b6561060506b100015c8868",
+            "5bf2596f23244a00013f2f13",
+            "5cb7cfba179839000114d761"
+          ],
+          "seriesId": "5b6560760506b100015c8867",
           "smartType": "MQ_AP",
           "smartTypes": [],
           "sort": 130,
